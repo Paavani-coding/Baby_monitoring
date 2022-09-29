@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    font-family: 'Patrick Hand';
+    color: aliceblue;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3,h4{
+    font-size: 35px;
+}
+
+canvas{
+    margin-top: 150px;
+    box-shadow: 15px 15px 15px black;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 5px solid gray;
+}
+
+h4:hover{
+    font-size: 40px;
+    color: cyan;
+}
+
